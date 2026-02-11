@@ -1,0 +1,1125 @@
+[
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "52 640 €",
+    "nova_cena": "",
+    "obrazok": "img/subaruoutback2025magnetitgrey.avif",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": false,
+    "objem": null,
+    "vykon": null,
+    "najazdene": null,
+    "karoseria": "",
+    "pohon": "",
+    "farba": "",
+    "metaliza": false,
+    "vybava": []
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Grand Cherokee",
+    "rok": 2024,
+    "palivo": "Benzín / Hybrid",
+    "prevodovka": "AT • Summit Reserve",
+    "stara_cena": "98 490€",
+    "nova_cena": "88 490€",
+    "obrazok": "img/grandcherokke2024red.avif",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": false
+  },
+  {
+    "id": "jeep-avenger-2024",
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2024,
+    "palivo": "Hybrid",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "Adventure",
+    "prevodovka": "AT • Adventure",
+    "stara_cena": "26 740€",
+    "nova_cena": "24 400€",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": false,
+    "objem": 1199,
+    "vykon": 74,
+    "najazdene": 10,
+    "karoseria": "Hatchback",
+    "pohon": "Predný",
+    "farba": "Žltá",
+    "metaliza": false,
+    "vybava": [
+      "ABS",
+      "Asistent jazdných pruhov",
+      "Airbagy",
+      "Lakťová opierka"
+    ]
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Wrangler",
+    "rok": 2024,
+    "palivo": "Benzín / Hybrid",
+    "prevodovka": "AT • Rubicon",
+    "stara_cena": "69 990€",
+    "nova_cena": "",
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656031285-q3hX5FLMjokir0g41zjAKsY8p0.avif",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": false
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Renegade",
+    "rok": 2023,
+    "palivo": "Benzín + MHEV",
+    "prevodovka": "AT • Limited",
+    "stara_cena": "34 990 €",
+    "nova_cena": "29 990 €",
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656999635-L9AYy0iWcLbEUcUTb6pBOx3g9jE.avif",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": false
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Axenture",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2024,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Summit",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Axenture",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "MT • Axenture",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2025,
+    "palivo": "Elektromotor",
+    "prevodovka": "AT • Altitude",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2025,
+    "palivo": "Elektromotor",
+    "prevodovka": "AT • First Edition",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2023,
+    "palivo": "Benzín",
+    "prevodovka": "MT • Night Eagle II",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2023,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • High Upland",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2025,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • First Edition",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Avenger",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Axenture",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Jeep",
+    "model": "Wrangler",
+    "rok": 2022,
+    "palivo": "Hybrid",
+    "prevodovka": "AT",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "XV",
+    "rok": 2012,
+    "palivo": "Benzín",
+    "prevodovka": "MT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2016,
+    "palivo": "Diesel",
+    "prevodovka": "AT • Exclusive",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2019,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2021,
+    "palivo": "Benzín",
+    "prevodovka": "AT",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "XV",
+    "rok": 2021,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Legacy",
+    "rok": 2010,
+    "palivo": "Benzín",
+    "prevodovka": "AT",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2023,
+    "palivo": "Benzín",
+    "prevodovka": "AT",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Touring",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2024,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2023,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2019,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2016,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Comfort",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2023,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Solterra",
+    "rok": 2025,
+    "palivo": "Elektromotor",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Crosstrek",
+    "rok": 2024,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Outback",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  },
+  {
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2026,
+    "palivo": "Hybrid",
+    "prevodovka": "AT • Style",
+    "stara_cena": "",
+    "nova_cena": "",
+    "obrazok": "",
+    "tagy": [
+      "subaru"
+    ],
+    "skryte": true
+  }
+]
