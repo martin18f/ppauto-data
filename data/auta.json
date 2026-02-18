@@ -589,20 +589,6 @@
   },
   {
     "znacka": "Subaru",
-    "model": "Crosstrek",
-    "rok": 2026,
-    "palivo": "Benzín",
-    "prevodovka": "AT • Style",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
-  },
-  {
-    "znacka": "Subaru",
     "model": "Forester",
     "rok": 2026,
     "palivo": "Hybrid",
