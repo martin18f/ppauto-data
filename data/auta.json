@@ -222,19 +222,5 @@
       "jeep"
     ],
     "skryte": true
-  },
-  {
-    "znacka": "Subaru",
-    "model": "Outback",
-    "rok": 2026,
-    "palivo": "Benzín",
-    "prevodovka": "AT • Premium",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
   }
 ]
