@@ -796,19 +796,5 @@
       "subaru"
     ],
     "skryte": true
-  },
-  {
-    "znacka": "Subaru",
-    "model": "Forester",
-    "rok": 2024,
-    "palivo": "Benzín",
-    "prevodovka": "AT • Premium",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
   }
 ]
