@@ -950,19 +950,5 @@
       "subaru"
     ],
     "skryte": true
-  },
-  {
-    "znacka": "Subaru",
-    "model": "Solterra",
-    "rok": 2025,
-    "palivo": "Elektromotor",
-    "prevodovka": "AT • Premium",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
   }
 ]
