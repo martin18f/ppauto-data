@@ -726,19 +726,5 @@
       "subaru"
     ],
     "skryte": true
-  },
-  {
-    "znacka": "Subaru",
-    "model": "Crosstrek",
-    "rok": 2025,
-    "palivo": "Benzín",
-    "prevodovka": "AT • Style",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
   }
 ]
