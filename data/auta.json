@@ -922,19 +922,5 @@
       "subaru"
     ],
     "skryte": true
-  },
-  {
-    "znacka": "Subaru",
-    "model": "Outback",
-    "rok": 2023,
-    "palivo": "Benzín",
-    "prevodovka": "AT • Premium",
-    "stara_cena": "",
-    "nova_cena": "",
-    "obrazok": "",
-    "tagy": [
-      "subaru"
-    ],
-    "skryte": true
   }
 ]
