@@ -5,7 +5,7 @@
     "brand": "subaru",
     "image": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1771504202865-crosstrek.png",
     "link": "#ponuka",
-    "skryte": false,
+    "skryte": true,
     "createdAt": "2026-02-19T12:31:30.224Z"
   }
 ]
