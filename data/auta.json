@@ -98,17 +98,35 @@
     "skryte": false
   },
   {
+    "id": "jeep-renegade-2024",
     "znacka": "Jeep",
     "model": "Renegade",
-    "rok": 2023,
+    "rok": 2024,
     "palivo": "Benzín + MHEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "Limited",
     "prevodovka": "AT • Limited",
     "stara_cena": "34 990 €",
     "nova_cena": "29 990 €",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656999635-L9AYy0iWcLbEUcUTb6pBOx3g9jE.avif",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656999635-L9AYy0iWcLbEUcUTb6pBOx3g9jE.avif"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656999635-L9AYy0iWcLbEUcUTb6pBOx3g9jE.avif"
+    ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760656999635-L9AYy0iWcLbEUcUTb6pBOx3g9jE.avif",
     "tagy": [
       "jeep"
     ],
-    "skryte": false
+    "skryte": false,
+    "objem": null,
+    "vykon": null,
+    "najazdene": null,
+    "karoseria": "",
+    "pohon": "",
+    "farba": "",
+    "metaliza": false,
+    "vybava": []
   }
 ]
