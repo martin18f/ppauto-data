@@ -363,5 +363,61 @@
       "6 reproduktorov",
       "Služby pripojenia"
     ]
+  },
+  {
+    "id": "jeep-renegade-2024",
+    "znacka": "Jeep",
+    "model": "Renegade",
+    "rok": 2024,
+    "palivo": "benzín MHEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "Limited",
+    "prevodovka": "AT • Limited",
+    "stara_cena": "29.990 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027103750-WhatsApp_Image_2026-02-24_at_08.28.26_3_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027103750-WhatsApp_Image_2026-02-24_at_08.28.26_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027105449-WhatsApp_Image_2026-02-24_at_08.28.26.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027103750-WhatsApp_Image_2026-02-24_at_08.28.26_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027105449-WhatsApp_Image_2026-02-24_at_08.28.26.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772027103750-WhatsApp_Image_2026-02-24_at_08.28.26_3_.jpeg",
+    "tagy": [],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 96,
+    "najazdene": 35,
+    "karoseria": "SUV",
+    "pohon": "predný",
+    "farba": "biela",
+    "metaliza": false,
+    "vybava": [
+      "Zatmavené zadné sklá",
+      "Strešné lyžiny",
+      "Vyhrievanie čelného skla pod stieračmi",
+      "Fix&Go opravná sada pneu",
+      "Výškovo nastaviteľný volant",
+      "Dvojzónová automatická klimatizácia",
+      "Predná lakťová opierka",
+      "ISOFIX na krajných sedadlách vzadu",
+      "Elektrochromatické vnútorné spätné zrkadlo",
+      "6 airbagov",
+      "ABS – protiblokovací brzdový systém s elektronickým rozdeľovačom brzdnej sily EBFD",
+      "ASR – Anti Slip regulation - protipreklzový systém",
+      "HSA - asistent rozjazdu do kopca",
+      "Systém detekcie únavy vodiča",
+      "Systém Selec-Terrain (volič jazdných režimov Sport, Auto, Sand, Mud, Snow)",
+      "Predné a zadné parkovacie senzory",
+      "Bezdrôtová nabíjačka smartfónov",
+      "Dažďový senzor a senzor stmievania",
+      "TPMS - monitoring tlaku pneumatík",
+      "E-call - systém SOS núdzového volania",
+      "Prístrojový panel s 10,25\" TFT displejom",
+      "6 reproduktorov",
+      "Služby pripojenia"
+    ]
   }
 ]
