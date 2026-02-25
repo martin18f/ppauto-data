@@ -10,14 +10,16 @@
     "prevodovka": "AT • Premium",
     "stara_cena": "52 640 €",
     "nova_cena": "",
-    "titulka": "img/subaruoutback2025magnetitgrey.avif",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
     "galeria": [
-      "img/subaruoutback2025magnetitgrey.avif"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022687544-WhatsApp_Image_2026-02-24_at_08.27.07.jpeg"
     ],
     "obrazky": [
-      "img/subaruoutback2025magnetitgrey.avif"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022687544-WhatsApp_Image_2026-02-24_at_08.27.07.jpeg"
     ],
-    "obrazok": "img/subaruoutback2025magnetitgrey.avif",
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
     "tagy": [
       "subaru",
       "novinky"
@@ -30,7 +32,43 @@
     "pohon": "",
     "farba": "",
     "metaliza": false,
-    "vybava": []
+    "vybava": [
+      "Full-LED svetlomety s adaptívnymi natáčacími svetlami",
+      "Vonkajšie spätné zrkadlá – el. sklápania, nastavenia a vyhrievania",
+      "Pozdĺžne strešné nosiče s výklopnými priečnikmi",
+      "Tónované zadné sklo a zadné bočné okná",
+      "Čierne látkové čalúnenie sedadiel",
+      "Kožou potiahnutý volant a hlavica radiacej páky (kontrastné strieborné prešívanie)",
+      "Sedadlo vodiča – elektrické nastavovanie v 10 smeroch",
+      "Sedadlo vodiča – nastavovanie dĺžky sedacej časti",
+      "Vyhrievané predné a zadné sedadlá",
+      "Vyhrievaný volant",
+      "Dvojzónová automatická klimatizácia s peľovým filtrom",
+      "Bezkľúčový prístup so štartovacím tlačidlom a kódom PIN",
+      "SUBARU STARLINK – 11,6\" dotykový displej + audiosystém (6 reproduktorov)",
+      "USB konektory typu C vpredu",
+      "Apple CarPlay a Android Auto (bezdrôtové)",
+      "Asistenčná technológia EyeSight",
+      "X-MODE (2 režimy) vrátane asistenta zjazdu z kopca",
+      "SI-DRIVE (Subaru Intelligent Drive)",
+      "SRVD – systém detekcie vozidiel vzadu",
+      "Systém monitorovania vodiča (rozpoznávanie tváre) – profily + výstraha nepozornosti/únavy",
+      "RAB – automatické brzdenie pri cúvaní + cúvacia kamera",
+      "18\" zliatinové disky (tmavosivá metalíza)",
+      "Elektrické ovládanie dverí batožinového priestoru (senzor)",
+      "Navigačný systém s multifunkčným dotykovým displejom",
+      "Spätné zrkadlá – el. sklápania pri zamknutí + pamäťová funkcia",
+      "Posuvné strešné okno – elektrické ovládanie",
+      "Prémiový kožou potiahnutý volant (kontrastné strieborné prešívanie)",
+      "Koža Nappa – čierna (alternatívne hnedá) – čalúnenie sedadiel",
+      "Sedadlo vodiča – pamäťová funkcia",
+      "SUBARU STARLINK – 11,6\" + Harman/Kardon (11 repr. + subwoofer) + 8-kanálový zosilňovač",
+      "Spätné zrkadlo spolujazdca – automatické nastavenie sklonu",
+      "Monitorovanie vodiča (doplnkový modul) – auto nastavenie zrkadiel + sedadla vodiča",
+      "Hliníkové pedále",
+      "Zosilnené pozdĺžne strešné nosiče (upevňovacie body, čierna úprava so zelenými detailmi)",
+      "Mriežka chladiča (lesklá čierna)"
+    ]
   },
   {
     "znacka": "Jeep",
