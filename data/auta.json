@@ -419,5 +419,31 @@
       "6 reproduktorov",
       "Služby pripojenia"
     ]
+  },
+  {
+    "id": "subaru-forester-2025",
+    "znacka": "Subaru",
+    "model": "Forester",
+    "rok": 2025,
+    "palivo": "benzín MHEV",
+    "typ_prevodovky": "AT/CVT",
+    "vybava_paket": "Premium",
+    "prevodovka": "AT/CVT • Premium",
+    "stara_cena": "",
+    "nova_cena": "",
+    "titulka": "",
+    "galeria": [],
+    "obrazky": [],
+    "obrazok": "",
+    "tagy": [],
+    "skryte": false,
+    "objem": 1995,
+    "vykon": 100,
+    "najazdene": 15,
+    "karoseria": "suv",
+    "pohon": "",
+    "farba": "",
+    "metaliza": false,
+    "vybava": []
   }
 ]
