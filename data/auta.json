@@ -512,5 +512,69 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-korando-2025",
+    "znacka": "Kgm",
+    "model": "Korando",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "STYLE +",
+    "prevodovka": "AT • STYLE +",
+    "stara_cena": "25 560 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029922005-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029922005-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029924002-WhatsApp_Image_2026-02-24_at_15.09.07.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029922005-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029924002-WhatsApp_Image_2026-02-24_at_15.09.07.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772029922005-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 120,
+    "najazdene": 10,
+    "karoseria": "SUV",
+    "pohon": "predný",
+    "farba": "biela",
+    "metaliza": false,
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent rozjazdu do kopca",
+      "Adaptívny tempomat",
+      "Asistent jazdných pruhov",
+      "Kontrola mŕtveho uhla",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia dvojzónová",
+      "Vyhrievané sedadlá",
+      "Lakťová opierka",
+      "Elektrické okná 4x",
+      "Bezklúčové otváranie",
+      "Bezklúčové štartovanie",
+      "Dažďový senzor",
+      "Svetelný senzor",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bezdrôtové nabíjanie",
+      "Palubný počítač",
+      "LED svetlomety",
+      "Parkovacie senzory",
+      "Parkovacia kamera"
+    ]
   }
 ]
