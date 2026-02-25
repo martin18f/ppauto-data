@@ -95,14 +95,16 @@
     "prevodovka": "AT • Adventure",
     "stara_cena": "26 740€",
     "nova_cena": "24 400€",
-    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
     "galeria": [
-      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024273995-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg"
     ],
     "obrazky": [
-      "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024273995-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg"
     ],
-    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto/main/uploads/1760655225681-IoQ24unINctyfVwC4zrHOYBE2k.avif",
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
     "tagy": [
       "jeep"
     ],
@@ -113,12 +115,29 @@
     "karoseria": "Hatchback",
     "pohon": "Predný",
     "farba": "Žltá",
-    "metaliza": false,
+    "metaliza": true,
     "vybava": [
-      "ABS",
-      "Asistent jazdných pruhov",
-      "Airbagy",
-      "Lakťová opierka"
+      "Tmavo sivé nárazníky, lemy blatníkov a prahové lišty",
+      "Elektricky ovládané predné a zadné okná",
+      "Kľučky dverí vo farbe karosérie",
+      "Vyhrievanie čelného skla pod stieračmi",
+      "Manuálne nastaviteľné predné sedadlá v 6 smeroch",
+      "Vyhrievané predné sedadlá",
+      "LED svetlá na čítanie",
+      "6 airbagov",
+      "ABS – protiblokovací brzdový systém s elektronickým rozdeľovačom brzdnej sily EBFD",
+      "ASR – Anti Slip regulation - protipreklzový systém",
+      "ETSR – pokročilý systém rozpoznávania dopravných značiek",
+      "Systém detekcie únavy vodiča",
+      "Systém Selec-Terrain (volič jazdných režimov Sport, Auto, Sand, Mud, Snow)",
+      "Bezkľúčový vstup s proximity senzorom a bezkľúčový štart",
+      "Predné a zadné parkovacie senzory",
+      "Bezdrôtová nabíjačka smartfónov",
+      "TPMS - monitoring tlaku pneumatík",
+      "E-call - systém SOS núdzového volania",
+      "Prístrojový panel s 10,25\" TFT displejom",
+      "Bezdrôtové Apple CarPlay / Android Auto",
+      "Služby pripojenia"
     ]
   },
   {
