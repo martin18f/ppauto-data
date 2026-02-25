@@ -303,5 +303,65 @@
       "USB A-C vpredu a 2x USB-C vzadu",
       "Služby pripojenia"
     ]
+  },
+  {
+    "id": "jeep-compass-2023",
+    "znacka": "Jeep",
+    "model": "Compass",
+    "rok": 2023,
+    "palivo": "benzín MHEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UPLAND",
+    "prevodovka": "AT • UPLAND",
+    "stara_cena": "34.900 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026830009-WhatsApp_Image_2026-02-24_at_08.28.47_1_.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026830009-WhatsApp_Image_2026-02-24_at_08.28.47_1_.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
+    "tagy": [
+      "JEEP"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 96,
+    "najazdene": 4981,
+    "karoseria": "SUV",
+    "pohon": "predný",
+    "farba": "modrá AZUR",
+    "metaliza": true,
+    "vybava": [
+      "Smart BeamTM - automatické prepínanie diaľkových svetiel",
+      "Elektricky nastaviteľné, sklopné a vyhrievané spätné zrkadlá s osvetlením cesty",
+      "Elektricky ovládané predné a zadné okná",
+      "Kľučky dverí vo farbe karosérie",
+      "Zatmavené zadné sklá",
+      "Strešné lyžiny",
+      "Vyhrievanie čelného skla pod stieračmi",
+      "Fix&Go opravná sada pneu",
+      "Vyhrievané predné sedadlá",
+      "Predná lakťová opierka",
+      "Osvetlenie priestoru pre nohy vpredu",
+      "Elektrochromatické vnútorné spätné zrkadlo",
+      "6 airbagov",
+      "ABS – protiblokovací brzdový systém s elektronickým rozdeľovačom brzdnej sily EBFD",
+      "ASR – Anti Slip regulation - protipreklzový systém",
+      "HSA - asistent rozjazdu do kopca",
+      "Asistent udržiavania v jazdnom pruhu Lane SenseTM",
+      "Systém detekcie únavy vodiča",
+      "Predné a zadné parkovacie senzory",
+      "Dažďový senzor a senzor stmievania",
+      "Prístrojový panel s 10,25\" TFT displejom",
+      "UconnectTM so 16\" dotykovým displejom, DAB, Bluetooth",
+      "Bezdrôtové Apple CarPlay / Android Auto",
+      "6 reproduktorov",
+      "Služby pripojenia"
+    ]
   }
 ]
