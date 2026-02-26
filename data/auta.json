@@ -1172,5 +1172,63 @@
       "Hliníkové disky",
       "Parkovacie senzory"
     ]
+  },
+  {
+    "id": "kgm-tivoli-2026",
+    "znacka": "Kgm",
+    "model": "Tivoli",
+    "rok": 2026,
+    "palivo": "Benzin",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "STYLE",
+    "prevodovka": "AT • STYLE",
+    "stara_cena": "23 650 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118309795-WhatsApp_Image_2026-02-24_at_15.11.54_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118311274-WhatsApp_Image_2026-02-24_at_15.11.54_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118312765-WhatsApp_Image_2026-02-24_at_15.11.54.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118314221-WhatsApp_Image_2026-02-24_at_15.11.55.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118309795-WhatsApp_Image_2026-02-24_at_15.11.54_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118311274-WhatsApp_Image_2026-02-24_at_15.11.54_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118312765-WhatsApp_Image_2026-02-24_at_15.11.54.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118314221-WhatsApp_Image_2026-02-24_at_15.11.55.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 120,
+    "najazdene": 10,
+    "karoseria": "Hatchback",
+    "pohon": "4X4",
+    "farba": "strieborná",
+    "metaliza": false,
+    "vybava": [
+      "ABS",
+      "ASR",
+      "Asistent rozjazdu do kopca",
+      "Asistent jazdných pruhov",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia",
+      "Vyhrievané sedadlá",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Palubný počítač",
+      "Hmlovky",
+      "Parkovacie senzory"
+    ]
   }
 ]
