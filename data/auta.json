@@ -1525,5 +1525,77 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-torres-2026-2",
+    "znacka": "Kgm",
+    "model": "Torres",
+    "rok": 2026,
+    "palivo": "benzín HEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "STYLE",
+    "prevodovka": "AT • STYLE",
+    "stara_cena": "35 210 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119809727-WhatsApp_Image_2026-02-24_at_15.11.31_2_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119809727-WhatsApp_Image_2026-02-24_at_15.11.31_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119811396-WhatsApp_Image_2026-02-24_at_15.11.30.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119812756-WhatsApp_Image_2026-02-24_at_15.11.31_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119814029-WhatsApp_Image_2026-02-24_at_15.11.31_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119815332-WhatsApp_Image_2026-02-24_at_15.11.31.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119809727-WhatsApp_Image_2026-02-24_at_15.11.31_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119811396-WhatsApp_Image_2026-02-24_at_15.11.30.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119812756-WhatsApp_Image_2026-02-24_at_15.11.31_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119814029-WhatsApp_Image_2026-02-24_at_15.11.31_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119815332-WhatsApp_Image_2026-02-24_at_15.11.31.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119809727-WhatsApp_Image_2026-02-24_at_15.11.31_2_.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 150,
+    "najazdene": 10,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "strieborná",
+    "metaliza": true,
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent rozjazdu do kopca",
+      "Adaptívny tempomat",
+      "Asistent jazdných pruhov",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia",
+      "Klimatizácia dvojzónová",
+      "Vyhrievané sedadlá",
+      "Lakťová opierka",
+      "Elektrické okná 4x",
+      "Bezklúčové otváranie",
+      "Bezklúčové štartovanie",
+      "Dažďový senzor",
+      "Svetelný senzor",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bezdrôtové nabíjanie",
+      "Palubný počítač",
+      "LED svetlomety",
+      "Hmlovky",
+      "Hliníkové disky",
+      "Parkovacie senzory",
+      "Parkovacia kamera"
+    ]
   }
 ]
