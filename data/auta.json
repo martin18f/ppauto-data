@@ -894,5 +894,45 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-korando-2025-2",
+    "znacka": "Kgm",
+    "model": "Korando",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "STYLE +",
+    "prevodovka": "AT • STYLE +",
+    "stara_cena": "24 768 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112862820-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112862820-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112864625-WhatsApp_Image_2026-02-24_at_15.08.18_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112866087-WhatsApp_Image_2026-02-24_at_15.08.18_2_k_pia.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112867167-WhatsApp_Image_2026-02-24_at_15.08.18_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112868405-WhatsApp_Image_2026-02-24_at_15.08.18.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112862820-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112864625-WhatsApp_Image_2026-02-24_at_15.08.18_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112866087-WhatsApp_Image_2026-02-24_at_15.08.18_2_k_pia.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112867167-WhatsApp_Image_2026-02-24_at_15.08.18_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112868405-WhatsApp_Image_2026-02-24_at_15.08.18.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112862820-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 120,
+    "najazdene": 7,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "strieborná",
+    "metaliza": true,
+    "vybava": []
   }
 ]
