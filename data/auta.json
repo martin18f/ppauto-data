@@ -751,8 +751,8 @@
   },
   {
     "id": "kgm-korando-2026-3",
-    "znacka": "KGM",
-    "model": "KORANDO",
+    "znacka": "Kgm",
+    "model": "Korando",
     "rok": 2026,
     "palivo": "Benzín",
     "typ_prevodovky": "AT",
@@ -763,14 +763,22 @@
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030544709-WhatsApp_Image_2026-02-24_at_08.25.58_1_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030544709-WhatsApp_Image_2026-02-24_at_08.25.58_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030546101-WhatsApp_Image_2026-02-24_at_08.25.56.jpeg"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112168009-WhatsApp_Image_2026-02-24_at_08.25.56.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112169301-WhatsApp_Image_2026-02-24_at_08.25.57.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112170433-WhatsApp_Image_2026-02-24_at_08.25.58_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112171708-WhatsApp_Image_2026-02-24_at_08.25.58.jpeg"
     ],
     "obrazky": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030544709-WhatsApp_Image_2026-02-24_at_08.25.58_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030546101-WhatsApp_Image_2026-02-24_at_08.25.56.jpeg"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112168009-WhatsApp_Image_2026-02-24_at_08.25.56.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112169301-WhatsApp_Image_2026-02-24_at_08.25.57.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112170433-WhatsApp_Image_2026-02-24_at_08.25.58_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772112171708-WhatsApp_Image_2026-02-24_at_08.25.58.jpeg"
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030544709-WhatsApp_Image_2026-02-24_at_08.25.58_1_.jpeg",
-    "tagy": [],
+    "tagy": [
+      "kgm"
+    ],
     "skryte": false,
     "objem": 1497,
     "vykon": 120,
