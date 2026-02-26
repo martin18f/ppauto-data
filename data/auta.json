@@ -1453,5 +1453,77 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-torres-2026-2",
+    "znacka": "Kgm",
+    "model": "Torres",
+    "rok": 2026,
+    "palivo": "Benzín",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "STYLE",
+    "prevodovka": "AT • STYLE",
+    "stara_cena": "34 110 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119597117-WhatsApp_Image_2026-02-24_at_15.12.25_3_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119597117-WhatsApp_Image_2026-02-24_at_15.12.25_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119598429-WhatsApp_Image_2026-02-24_at_15.12.25_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119599845-WhatsApp_Image_2026-02-24_at_15.12.25_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119601057-WhatsApp_Image_2026-02-24_at_15.12.25_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119602493-WhatsApp_Image_2026-02-24_at_15.12.25.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119597117-WhatsApp_Image_2026-02-24_at_15.12.25_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119598429-WhatsApp_Image_2026-02-24_at_15.12.25_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119599845-WhatsApp_Image_2026-02-24_at_15.12.25_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119601057-WhatsApp_Image_2026-02-24_at_15.12.25_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119602493-WhatsApp_Image_2026-02-24_at_15.12.25.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772119597117-WhatsApp_Image_2026-02-24_at_15.12.25_3_.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 120,
+    "najazdene": 10,
+    "karoseria": "SUV",
+    "pohon": "4X4",
+    "farba": "Latté béžová",
+    "metaliza": false,
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent rozjazdu do kopca",
+      "Adaptívny tempomat",
+      "Asistent jazdných pruhov",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia",
+      "Klimatizácia dvojzónová",
+      "Vyhrievané sedadlá",
+      "Lakťová opierka",
+      "Elektrické okná 4x",
+      "Bezklúčové otváranie",
+      "Bezklúčové štartovanie",
+      "Dažďový senzor",
+      "Svetelný senzor",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bezdrôtové nabíjanie",
+      "Palubný počítač",
+      "LED svetlomety",
+      "Hmlovky",
+      "Hliníkové disky",
+      "Parkovacie senzory",
+      "Parkovacia kamera"
+    ]
   }
 ]
