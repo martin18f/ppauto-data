@@ -933,6 +933,36 @@
     "pohon": "Predný",
     "farba": "strieborná",
     "metaliza": true,
-    "vybava": []
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent rozjazdu do kopca",
+      "Adaptívny tempomat",
+      "Asistent jazdných pruhov",
+      "Kontrola mŕtveho uhla",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia",
+      "Vyhrievané sedadlá",
+      "Lakťová opierka",
+      "Elektrické okná 4x",
+      "Dažďový senzor",
+      "Svetelný senzor",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bezdrôtové nabíjanie",
+      "Palubný počítač",
+      "LED svetlomety",
+      "Hmlovky",
+      "Hliníkové disky",
+      "Parkovacie senzory",
+      "Parkovacia kamera"
+    ]
   }
 ]
