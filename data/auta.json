@@ -1114,5 +1114,63 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-tivoli-2025",
+    "znacka": "Kgm",
+    "model": "Tivoli",
+    "rok": 2025,
+    "palivo": "Benzín",
+    "typ_prevodovky": "MT",
+    "vybava_paket": "STYLE",
+    "prevodovka": "MT • STYLE",
+    "stara_cena": "18 780 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118020307-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118020307-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118022271-WhatsApp_Image_2026-02-24_at_08.23.59_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118023487-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118024882-WhatsApp_Image_2026-02-24_at_08.23.59_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118026637-WhatsApp_Image_2026-02-24_at_08.23.59.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118020307-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118022271-WhatsApp_Image_2026-02-24_at_08.23.59_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118023487-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118024882-WhatsApp_Image_2026-02-24_at_08.23.59_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118026637-WhatsApp_Image_2026-02-24_at_08.23.59.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118020307-WhatsApp_Image_2026-02-24_at_08.23.59_3_.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 120,
+    "najazdene": 18,
+    "karoseria": "Hatchback",
+    "pohon": "Predný",
+    "farba": "Latte béžová",
+    "metaliza": false,
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent jazdných pruhov",
+      "Systém kontroly tlaku v pneumatikách",
+      "Airbagy",
+      "Klimatizácia",
+      "Vyhrievané sedadlá",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Android Auto",
+      "Palubný počítač",
+      "Hmlovky",
+      "Hliníkové disky",
+      "Parkovacie senzory"
+    ]
   }
 ]
