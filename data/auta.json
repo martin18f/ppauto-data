@@ -485,7 +485,9 @@
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772097986394-WhatsApp_Image_2026-02-24_at_08.26.44.jpeg"
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030399588-WhatsApp_Image_2026-02-24_at_08.26.43_3_.jpeg",
-    "tagy": [],
+    "tagy": [
+      "subaru"
+    ],
     "skryte": false,
     "objem": 1995,
     "vykon": 100,
