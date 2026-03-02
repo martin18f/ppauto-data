@@ -34,5 +34,14 @@
     "link": "#ponuka",
     "skryte": false,
     "createdAt": "2026-03-02T12:50:02.730Z"
+  },
+  {
+    "id": "promo_1772455921310_dd915496b9cf7",
+    "title": "Zvládne všetky výzvy - Jeep Avenger",
+    "brand": "jeep",
+    "image": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772455918694-Avenger4xe_hpcanvas_desktop_1600_505.jpg",
+    "link": "#ponuka",
+    "skryte": false,
+    "createdAt": "2026-03-02T12:52:01.310Z"
   }
 ]
