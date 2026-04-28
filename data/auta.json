@@ -1596,5 +1596,76 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "kgm-musso-grand-2025",
+    "znacka": "Kgm",
+    "model": "MUSSO GRAND",
+    "rok": 2025,
+    "palivo": "Diesel",
+    "typ_prevodovky": "MT",
+    "vybava_paket": "STYLE",
+    "prevodovka": "MT • STYLE",
+    "stara_cena": "33 580 €",
+    "nova_cena": "30 990 €",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373132239-WhatsApp_Image_2026-04-27_at_16.04.04.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373132239-WhatsApp_Image_2026-04-27_at_16.04.04.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373134454-WhatsApp_Image_2026-04-27_at_16.04.04_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373136039-WhatsApp_Image_2026-04-27_at_16.04.04_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373137785-WhatsApp_Image_2026-04-27_at_16.04.04_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373139382-WhatsApp_Image_2026-04-27_at_16.04.04_5_.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373132239-WhatsApp_Image_2026-04-27_at_16.04.04.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373134454-WhatsApp_Image_2026-04-27_at_16.04.04_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373136039-WhatsApp_Image_2026-04-27_at_16.04.04_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373137785-WhatsApp_Image_2026-04-27_at_16.04.04_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373139382-WhatsApp_Image_2026-04-27_at_16.04.04_5_.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1777373132239-WhatsApp_Image_2026-04-27_at_16.04.04.jpeg",
+    "tagy": [
+      "kgm",
+      "skladom"
+    ],
+    "skryte": false,
+    "objem": 2157,
+    "vykon": 148,
+    "najazdene": 22,
+    "karoseria": "PICKUP",
+    "pohon": "4X4",
+    "farba": "zelená",
+    "metaliza": true,
+    "vybava": [
+      "ABS",
+      "ESP",
+      "ASR",
+      "Brzdový asistent",
+      "Asistent rozjazdu do kopca",
+      "Asistent jazdných pruhov",
+      "Kontrola mŕtveho uhla",
+      "Systém kontroly tlaku v pneumatikách",
+      "Isofix",
+      "Airbagy",
+      "Klimatizácia",
+      "Klimatizácia dvojzónová",
+      "Vyhrievané sedadlá",
+      "Lakťová opierka",
+      "Elektrické okná 4x",
+      "Bezklúčové štartovanie",
+      "Dažďový senzor",
+      "Svetelný senzor",
+      "Autorádio",
+      "Dotykový displej",
+      "Bluetooth",
+      "Apple CarPlay",
+      "Android Auto",
+      "Bezdrôtové nabíjanie",
+      "Palubný počítač",
+      "Hmlovky",
+      "Strešný nosič",
+      "Parkovacie senzory",
+      "Parkovacia kamera"
+    ]
   }
 ]
