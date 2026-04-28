@@ -1184,7 +1184,7 @@
     "vybava_paket": "STYLE",
     "prevodovka": "AT • STYLE",
     "stara_cena": "23 650 €",
-    "nova_cena": "",
+    "nova_cena": "21 200 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
@@ -1202,7 +1202,9 @@
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772118308479-WhatsApp_Image_2026-02-24_at_15.11.54_3_.jpeg",
     "tagy": [
-      "kgm"
+      "kgm",
+      "skladom",
+      "DEMO"
     ],
     "skryte": false,
     "objem": 1497,
