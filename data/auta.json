@@ -1825,5 +1825,33 @@
       "Parkovacie senzory",
       "Parkovacia kamera"
     ]
+  },
+  {
+    "id": "chery-tiggo-9-plug-in-hybrid-2024",
+    "znacka": "Chery",
+    "model": "TIGGO 9 Plug-in Hybrid",
+    "rok": 2024,
+    "palivo": "",
+    "typ_prevodovky": "HYBRID",
+    "vybava_paket": "",
+    "prevodovka": "HYBRID",
+    "stara_cena": "21",
+    "nova_cena": "",
+    "titulka": "",
+    "galeria": [],
+    "obrazky": [],
+    "obrazok": "",
+    "tagy": [
+      "chery"
+    ],
+    "skryte": false,
+    "objem": null,
+    "vykon": null,
+    "najazdene": null,
+    "karoseria": "",
+    "pohon": "",
+    "farba": "",
+    "metaliza": false,
+    "vybava": []
   }
 ]
