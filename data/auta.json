@@ -1887,5 +1887,76 @@
       "Zliatinové disky",
       "Hybridný pohon"
     ]
+  },
+  {
+    "id": "chery-tiggo-7-hybrid-2026",
+    "znacka": "Chery",
+    "model": "TIGGO 7 Hybrid",
+    "rok": 2026,
+    "palivo": "benzín HEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UNIQUE",
+    "prevodovka": "AT • UNIQUE",
+    "stara_cena": "29790 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002410057-WhatsApp_Image_2026-07-02_at_16.07.57.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002410057-WhatsApp_Image_2026-07-02_at_16.07.57.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002412005-WhatsApp_Image_2026-07-02_at_16.07.57_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002413392-WhatsApp_Image_2026-07-02_at_16.07.58_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002415091-WhatsApp_Image_2026-07-02_at_16.07.58_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002416467-WhatsApp_Image_2026-07-02_at_16.07.58.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002410057-WhatsApp_Image_2026-07-02_at_16.07.57.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002412005-WhatsApp_Image_2026-07-02_at_16.07.57_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002413392-WhatsApp_Image_2026-07-02_at_16.07.58_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002415091-WhatsApp_Image_2026-07-02_at_16.07.58_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002416467-WhatsApp_Image_2026-07-02_at_16.07.58.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783002410057-WhatsApp_Image_2026-07-02_at_16.07.57.jpeg",
+    "tagy": [
+      "chery",
+      "skladom",
+      "novinky",
+      "predvadzacie"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 165,
+    "najazdene": 54,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "strieborná",
+    "metaliza": true,
+    "vybava": [
+      "Adaptívny tempomat",
+      "Asistent jazdy v jazdnom pruhu",
+      "Sledovanie mŕtveho uhla",
+      "Autonómne núdzové brzdenie",
+      "Rozpoznávanie dopravných značiek",
+      "Monitorovanie únavy vodiča",
+      "Predné a zadné parkovacie senzory",
+      "ISOFIX",
+      "Dvojzónová automatická klimatizácia",
+      "Vyhrievané predné sedadlá",
+      "Ventilované predné sedadlá",
+      "Elektricky nastaviteľné sedadlo vodiča",
+      "Bezkľúčový vstup a štartovanie",
+      "Elektrické ovládanie batožinového priestoru",
+      "Panoramatické strešné okno",
+      "Ambientné osvetlenie interiéru",
+      "Digitálny prístrojový panel",
+      "Dotykový infotainment displej",
+      "Apple CarPlay a Android Auto",
+      "Bezdrôtové nabíjanie telefónu",
+      "Bluetooth",
+      "LED svetlomety",
+      "LED denné svietenie",
+      "Elektricky sklopné a vyhrievané spätné zrkadlá",
+      "Strešné lyžiny",
+      "Zliatinové disky",
+      "Hybridný pohon"
+    ]
   }
 ]
