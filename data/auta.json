@@ -2,14 +2,14 @@
   {
     "id": "subaru-outback-2025",
     "znacka": "Subaru",
-    "model": "Outback",
+    "model": "OUTBACK",
     "rok": 2025,
     "palivo": "Benzín",
     "typ_prevodovky": "AT",
     "vybava_paket": "Premium",
     "prevodovka": "AT • Premium",
     "stara_cena": "52 640 €",
-    "nova_cena": "",
+    "nova_cena": "47 250 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772022686082-WhatsApp_Image_2026-02-24_at_08.27.07_1_.jpeg",
