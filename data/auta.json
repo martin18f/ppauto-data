@@ -966,15 +966,15 @@
   },
   {
     "id": "kgm-rexton-2025",
-    "znacka": "Kgm",
-    "model": "Rexton",
+    "znacka": "KGM",
+    "model": "REXTON",
     "rok": 2025,
     "palivo": "Diesel",
     "typ_prevodovky": "AT",
     "vybava_paket": "Premium",
     "prevodovka": "AT • Premium",
     "stara_cena": "50 180 €",
-    "nova_cena": "48 180 €",
+    "nova_cena": "47 500 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772113753783-WhatsApp_Image_2026-02-24_at_08.24.28_3_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772113753783-WhatsApp_Image_2026-02-24_at_08.24.28_3_.jpeg",
