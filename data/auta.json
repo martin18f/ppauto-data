@@ -2236,5 +2236,70 @@
       "Hybridný pohon",
       "Plug-in hybridný pohon"
     ]
+  },
+  {
+    "id": "chery-tiggo-9-plug-in-hybrid-2026-2",
+    "znacka": "Chery",
+    "model": "TIGGO 9 Plug-in Hybrid",
+    "rok": 2026,
+    "palivo": "Benzín PHEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UNIQUE",
+    "prevodovka": "AT • UNIQUE",
+    "stara_cena": "47 590 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950939947-IMG_6912_1_.jpg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950939947-IMG_6912_1_.jpg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950943560-IMG_6913.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950939947-IMG_6912_1_.jpg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950943560-IMG_6913.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1786950939947-IMG_6912_1_.jpg",
+    "tagy": [
+      "chery"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 320,
+    "najazdene": 10,
+    "karoseria": "SUV",
+    "pohon": "4x4",
+    "farba": "Zelená",
+    "metaliza": false,
+    "vybava": [
+      "Adaptívny tempomat",
+      "Asistent jazdy v jazdnom pruhu",
+      "Sledovanie mŕtveho uhla",
+      "Autonómne núdzové brzdenie",
+      "Rozpoznávanie dopravných značiek",
+      "Monitorovanie únavy vodiča",
+      "360° parkovacia kamera",
+      "Predné a zadné parkovacie senzory",
+      "ISOFIX",
+      "Dvojzónová automatická klimatizácia",
+      "Vyhrievané predné sedadlá",
+      "Ventilované predné sedadlá",
+      "Elektricky nastaviteľné sedadlo vodiča",
+      "Bezkľúčový vstup a štartovanie",
+      "Elektrické ovládanie batožinového priestoru",
+      "Panoramatické strešné okno",
+      "Ambientné osvetlenie interiéru",
+      "Digitálny prístrojový panel",
+      "Dotykový infotainment displej",
+      "Apple CarPlay a Android Auto",
+      "Bezdrôtové nabíjanie telefónu",
+      "Bluetooth",
+      "USB konektory vpredu a vzadu",
+      "LED svetlomety",
+      "LED denné svietenie",
+      "Elektricky sklopné a vyhrievané spätné zrkadlá",
+      "Strešné lyžiny",
+      "Zliatinové disky",
+      "Hybridný pohon",
+      "Plug-in hybridný pohon"
+    ]
   }
 ]
