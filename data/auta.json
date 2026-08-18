@@ -76,20 +76,6 @@
     ]
   },
   {
-    "znacka": "Jeep",
-    "model": "Grand Cherokee",
-    "rok": 2024,
-    "palivo": "Benzín / Hybrid",
-    "prevodovka": "AT • Summit Reserve",
-    "stara_cena": "98 490€",
-    "nova_cena": "88 490€",
-    "obrazok": "img/grandcherokke2024red.avif",
-    "tagy": [
-      "jeep"
-    ],
-    "skryte": true
-  },
-  {
     "id": "jeep-avenger-2024",
     "znacka": "Jeep",
     "model": "Avenger",
