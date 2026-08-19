@@ -61,5 +61,14 @@
     "link": "#ponuka",
     "skryte": false,
     "createdAt": "2026-08-19T07:48:17.303Z"
+  },
+  {
+    "id": "promo_1787125942516_845fcb3444ed9",
+    "title": "Letný výpredaj skladov KGM prináša Korando so zľavou 2 000 € do 31. 8.",
+    "brand": "kgm",
+    "image": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1787125938273-2d648632-49c5-4f9b-8013-1d94f632ebe1.webp",
+    "link": "#ponuka",
+    "skryte": false,
+    "createdAt": "2026-08-19T07:52:22.516Z"
   }
 ]
