@@ -52,5 +52,14 @@
     "link": "#ponuka",
     "skryte": false,
     "createdAt": "2026-03-02T13:03:13.571Z"
+  },
+  {
+    "id": "promo_1787125697305_dd3e9256e7a53",
+    "title": "Nové Chery? Prvá nádrž je na nás.",
+    "brand": "chery",
+    "image": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1787125692634-Group_5.jpg",
+    "link": "#ponuka",
+    "skryte": false,
+    "createdAt": "2026-08-19T07:48:17.303Z"
   }
 ]
