@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "fields": {
+    "znacka": [
+      "Subaru",
+      "KGM",
+      "Jeep",
+      "Chery"
+    ],
+    "palivo": [
+      "Benzín",
+      "Diesel",
+      "Hybrid",
+      "Plug-in hybrid",
+      "MHEV",
+      "Elektromotor"
+    ],
+    "typ_prevodovky": [
+      "AT",
+      "MT",
+      "CVT",
+      "DCT",
+      "DSG"
+    ],
+    "vybava_paket": [
+      "Comfort",
+      "Style",
+      "Premium",
+      "Limited",
+      "Adventure",
+      "Sport"
+    ],
+    "karoseria": [
+      "SUV",
+      "Crossover",
+      "Hatchback",
+      "Sedan",
+      "Kombi",
+      "Coupé",
+      "Cabrio",
+      "Pick-up",
+      "MPV"
+    ],
+    "pohon": [
+      "Predný",
+      "Zadný",
+      "AWD",
+      "4x4"
+    ],
+    "farba": [
+      "Biela",
+      "Čierna",
+      "Sivá",
+      "Strieborná",
+      "Modrá",
+      "Červená",
+      "Zelená",
+      "Žltá",
+      "Hnedá",
+      "Oranžová",
+      "Béžová"
+    ]
+  },
+  "models": {
+    "Subaru": [
+      "FORESTER",
+      "OUTBACK",
+      "SOLTERRA",
+      "CROSSTREK",
+      "BRZ"
+    ],
+    "KGM": [
+      "TORRES",
+      "TORRES EVX",
+      "KORANDO",
+      "TIVOLI",
+      "REXTON",
+      "MUSSO GRAND",
+      "ACTYON"
+    ],
+    "Jeep": [
+      "AVENGER",
+      "RENEGADE",
+      "COMPASS",
+      "WRANGLER",
+      "GRAND CHEROKEE"
+    ],
+    "Chery": [
+      "TIGGO 9 Plug-in Hybrid",
+      "TIGGO 8 Plug-in Hybrid",
+      "TIGGO 8",
+      "TIGGO 7 Plug-in Hybrid",
+      "TIGGO 7 Hybrid",
+      "TIGGO 7",
+      "TIGGO 4 Hybrid"
+    ]
+  }
+}
