@@ -17,7 +17,9 @@
       "AT",
       "MT"
     ],
-    "vybava_paket": [],
+    "vybava_paket": [
+      "UNIQUE"
+    ],
     "karoseria": [
       "SUV",
       "Crossover",
