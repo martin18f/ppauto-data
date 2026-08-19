@@ -10,5 +10,17 @@
     "size": 2356912,
     "createdAt": "2026-08-19T14:48:41.114Z",
     "updatedAt": "2026-08-19T14:49:45.478Z"
+  },
+  {
+    "id": "doc_1787151194602_01y2vj",
+    "brand": "Chery",
+    "model": "TIGGO 7 Hybrid",
+    "type": "cennik",
+    "title": "TIGGO 7 HEV",
+    "filename": "tiggo-7-hev.pdf",
+    "path": "uploads/documents/1787151189535-tiggo-7-hev.pdf",
+    "size": 1953870,
+    "createdAt": "2026-08-19T14:53:14.601Z",
+    "updatedAt": "2026-08-19T14:53:14.601Z"
   }
 ]
