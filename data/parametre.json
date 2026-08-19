@@ -10,7 +10,8 @@
     "palivo": [
       "Benzín",
       "Diesel",
-      "HEV"
+      "HEV",
+      "PHEV"
     ],
     "typ_prevodovky": [
       "AT",
