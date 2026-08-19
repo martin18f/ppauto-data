@@ -17,11 +17,7 @@
       "AT",
       "MT"
     ],
-    "vybava_paket": [
-      "UNIQUE",
-      "COMFORT",
-      "FAMILY EDITION"
-    ],
+    "vybava_paket": [],
     "karoseria": [
       "SUV",
       "Crossover",
@@ -35,24 +31,7 @@
       "AWD",
       "4x4"
     ],
-    "farba": [
-      "Zelená AURORA",
-      "Čierna Pine",
-      "Biela Starry path",
-      "Matná sivá Universe",
-      "Sivá Bamboo",
-      "Biela Khaki",
-      "Čierna Carbon crystal",
-      "Matná sivá Basalt",
-      "Modrá Sea Blue",
-      "Červená Prime",
-      "Strieborná Tech",
-      "Sivá Phatom",
-      "Modrá Emerald",
-      "Biela Khaki + čierna strecha",
-      "Červená Prime + čierna strecha",
-      "Strieborná Arctic platinum"
-    ]
+    "farba": []
   },
   "models": {
     "Subaru": [
