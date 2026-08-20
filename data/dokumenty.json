@@ -58,5 +58,17 @@
     "size": 2181680,
     "createdAt": "2026-08-20T06:37:30.094Z",
     "updatedAt": "2026-08-20T06:37:30.094Z"
+  },
+  {
+    "id": "doc_1787218519792_te9z4b",
+    "brand": "Subaru",
+    "model": "OUTBACK",
+    "type": "cennik",
+    "title": "OUTBACK",
+    "filename": "Outback-hlavne-prvky-vybavy (1).pdf",
+    "path": "uploads/documents/1787218518150-Outback-hlavne-prvky-vybavy_1_.pdf",
+    "size": 1336756,
+    "createdAt": "2026-08-20T09:35:19.792Z",
+    "updatedAt": "2026-08-20T09:35:19.792Z"
   }
 ]
