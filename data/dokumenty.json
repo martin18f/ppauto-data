@@ -70,5 +70,17 @@
     "size": 1336756,
     "createdAt": "2026-08-20T09:35:19.792Z",
     "updatedAt": "2026-08-20T09:35:19.792Z"
+  },
+  {
+    "id": "doc_1787237007327_vh2hdo",
+    "brand": "KGM",
+    "model": "TIVOLI",
+    "type": "cennik",
+    "title": "TIVOLI",
+    "filename": "doc_1772445156812_cenik_tivoli_sk_2026_compressed.pdf",
+    "path": "uploads/documents/1787237005427-doc_1772445156812_cenik_tivoli_sk_2026_compressed.pdf",
+    "size": 755849,
+    "createdAt": "2026-08-20T14:43:27.323Z",
+    "updatedAt": "2026-08-20T14:43:27.323Z"
   }
 ]
