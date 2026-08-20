@@ -22,5 +22,17 @@
     "size": 1953870,
     "createdAt": "2026-08-19T14:53:14.601Z",
     "updatedAt": "2026-08-19T14:53:14.601Z"
+  },
+  {
+    "id": "doc_1787207690536_di4w7l",
+    "brand": "Chery",
+    "model": "TIGGO 4 Hybrid",
+    "type": "cennik",
+    "title": "TIGGO 4 HEV",
+    "filename": "tiggo-4.pdf",
+    "path": "uploads/documents/1787207688898-tiggo-4.pdf",
+    "size": 2150171,
+    "createdAt": "2026-08-20T06:34:50.536Z",
+    "updatedAt": "2026-08-20T06:34:50.536Z"
   }
 ]
