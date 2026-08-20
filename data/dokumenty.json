@@ -46,5 +46,17 @@
     "size": 2352935,
     "createdAt": "2026-08-20T06:37:02.914Z",
     "updatedAt": "2026-08-20T06:37:02.914Z"
+  },
+  {
+    "id": "doc_1787207850094_yr2uax",
+    "brand": "Chery",
+    "model": "TIGGO 9 Plug-in Hybrid",
+    "type": "cennik",
+    "title": "TIGGO 9 PHEV",
+    "filename": "tiggo-9-phev.pdf",
+    "path": "uploads/documents/1787207848728-tiggo-9-phev.pdf",
+    "size": 2181680,
+    "createdAt": "2026-08-20T06:37:30.094Z",
+    "updatedAt": "2026-08-20T06:37:30.094Z"
   }
 ]
