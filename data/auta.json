@@ -2032,7 +2032,7 @@
       "novinky",
       "predvadzacie"
     ],
-    "skryte": false,
+    "skryte": true,
     "objem": 1498,
     "vykon": 315,
     "najazdene": 49,
