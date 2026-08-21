@@ -1677,7 +1677,7 @@
       "skladom",
       "predvadzacie"
     ],
-    "skryte": false,
+    "skryte": true,
     "objem": 1497,
     "vykon": 130,
     "najazdene": 112,
