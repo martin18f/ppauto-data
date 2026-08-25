@@ -2306,5 +2306,46 @@
     "farba": "biela ANTARCTICA",
     "metaliza": false,
     "vybava": []
+  },
+  {
+    "id": "kgm-actyon-2015",
+    "znacka": "KGM",
+    "model": "ACTYON",
+    "rok": 2015,
+    "palivo": "HEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "PREMIUM",
+    "prevodovka": "AT • PREMIUM",
+    "stara_cena": "39 280 €",
+    "nova_cena": "36 280 €",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663171945-WhatsApp_Image_2026-02-26_at_16.33.11_1_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663171945-WhatsApp_Image_2026-02-26_at_16.33.11_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663173668-WhatsApp_Image_2026-02-26_at_16.33.10_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663175263-WhatsApp_Image_2026-02-26_at_16.33.10.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663176640-WhatsApp_Image_2026-02-26_at_16.33.11_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663178045-WhatsApp_Image_2026-02-26_at_16.33.11.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663171945-WhatsApp_Image_2026-02-26_at_16.33.11_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663173668-WhatsApp_Image_2026-02-26_at_16.33.10_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663175263-WhatsApp_Image_2026-02-26_at_16.33.10.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663176640-WhatsApp_Image_2026-02-26_at_16.33.11_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663178045-WhatsApp_Image_2026-02-26_at_16.33.11.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787663171945-WhatsApp_Image_2026-02-26_at_16.33.11_1_.jpeg",
+    "tagy": [
+      "kgm",
+      "skladom"
+    ],
+    "skryte": false,
+    "objem": 1497,
+    "vykon": 150,
+    "najazdene": 0,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "Latte Greige",
+    "metaliza": true,
+    "vybava": []
   }
 ]
