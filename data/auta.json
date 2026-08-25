@@ -302,14 +302,14 @@
   {
     "id": "jeep-compass-2023",
     "znacka": "Jeep",
-    "model": "Compass",
+    "model": "COMPASS",
     "rok": 2023,
     "palivo": "benzín MHEV",
     "typ_prevodovky": "AT",
     "vybava_paket": "UPLAND",
     "prevodovka": "AT • UPLAND",
-    "stara_cena": "34.900 €",
-    "nova_cena": "29 990 €",
+    "stara_cena": "29 990 €",
+    "nova_cena": "24 990 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
@@ -327,14 +327,14 @@
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772026828270-WhatsApp_Image_2026-02-24_at_08.28.48_1_.jpeg",
     "tagy": [
-      "JEEP"
+      "jeep"
     ],
     "skryte": false,
     "objem": 1497,
     "vykon": 96,
     "najazdene": 4981,
     "karoseria": "SUV",
-    "pohon": "predný",
+    "pohon": "Predný",
     "farba": "modrá AZUR",
     "metaliza": true,
     "vybava": [
