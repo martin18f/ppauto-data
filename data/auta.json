@@ -2347,5 +2347,47 @@
     "farba": "Latte Greige",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "kgm-rexton-2026",
+    "znacka": "KGM",
+    "model": "REXTON",
+    "rok": 2026,
+    "palivo": "Diesel",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "PREMIUM",
+    "prevodovka": "AT • PREMIUM",
+    "stara_cena": "44 990 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664261986-WhatsApp_Image_2026-04-27_at_15.17.55.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664261986-WhatsApp_Image_2026-04-27_at_15.17.55.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664263466-WhatsApp_Image_2026-04-27_at_15.17.56_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664264883-WhatsApp_Image_2026-04-27_at_15.17.56_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664266346-WhatsApp_Image_2026-04-27_at_15.17.56_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664267635-WhatsApp_Image_2026-04-27_at_15.17.56.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664261986-WhatsApp_Image_2026-04-27_at_15.17.55.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664263466-WhatsApp_Image_2026-04-27_at_15.17.56_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664264883-WhatsApp_Image_2026-04-27_at_15.17.56_2_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664266346-WhatsApp_Image_2026-04-27_at_15.17.56_3_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664267635-WhatsApp_Image_2026-04-27_at_15.17.56.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664261986-WhatsApp_Image_2026-04-27_at_15.17.55.jpeg",
+    "tagy": [
+      "kgm",
+      "novinky",
+      "skladom"
+    ],
+    "skryte": false,
+    "objem": 2157,
+    "vykon": 149,
+    "najazdene": 0,
+    "karoseria": "SUV",
+    "pohon": "4x4",
+    "farba": "MARBLE grafitová metalíza šedá",
+    "metaliza": true,
+    "vybava": []
   }
 ]
