@@ -8,7 +8,9 @@
   "colors": {
     "Subaru": [],
     "KGM": [],
-    "Jeep": [],
+    "Jeep": [
+      "Biela Alpine"
+    ],
     "Chery": [
       "Zelená AURORA",
       "Čierna Pine",
