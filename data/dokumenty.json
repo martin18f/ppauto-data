@@ -94,5 +94,17 @@
     "size": 872783,
     "createdAt": "2026-08-25T12:57:44.367Z",
     "updatedAt": "2026-08-25T12:57:44.367Z"
+  },
+  {
+    "id": "doc_1787663302717_cpz9yl",
+    "brand": "KGM",
+    "model": "ACTYON",
+    "type": "cennik",
+    "title": "Actyon",
+    "filename": "kgm_actyon_cennik_compressed.pdf",
+    "path": "uploads/documents/1787663300843-kgm_actyon_cennik_compressed.pdf",
+    "size": 483918,
+    "createdAt": "2026-08-25T13:08:22.714Z",
+    "updatedAt": "2026-08-25T13:08:22.714Z"
   }
 ]
