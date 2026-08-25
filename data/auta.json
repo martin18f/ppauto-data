@@ -2276,5 +2276,35 @@
       "Hybridný pohon",
       "Plug-in hybridný pohon"
     ]
+  },
+  {
+    "id": "jeep-compass-2026",
+    "znacka": "Jeep",
+    "model": "COMPASS",
+    "rok": 2026,
+    "palivo": "HEV",
+    "typ_prevodovky": "AT",
+    "vybava_paket": "First Edition",
+    "prevodovka": "AT • First Edition",
+    "stara_cena": "37 990 €",
+    "nova_cena": "33 990 €",
+    "titulka": "",
+    "galeria": [],
+    "obrazky": [],
+    "obrazok": "",
+    "tagy": [
+      "jeep",
+      "novinky",
+      "skladom"
+    ],
+    "skryte": false,
+    "objem": 1199,
+    "vykon": 107,
+    "najazdene": 0,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "biela ANTARCTICA",
+    "metaliza": false,
+    "vybava": []
   }
 ]
