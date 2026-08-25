@@ -82,5 +82,17 @@
     "size": 755849,
     "createdAt": "2026-08-20T14:43:27.323Z",
     "updatedAt": "2026-08-20T14:43:27.323Z"
+  },
+  {
+    "id": "doc_1787662664370_kdyzm2",
+    "brand": "Jeep",
+    "model": "COMPASS",
+    "type": "cennik",
+    "title": "COMPASS FIRST EDITION",
+    "filename": "ZC_Jeep_COMPASS_FIRST_EDITION_dopredaj_skladu_24.8.2026.pdf",
+    "path": "uploads/documents/1787662662107-ZC_Jeep_COMPASS_FIRST_EDITION_dopredaj_skladu_24.8.2026.pdf",
+    "size": 872783,
+    "createdAt": "2026-08-25T12:57:44.367Z",
+    "updatedAt": "2026-08-25T12:57:44.367Z"
   }
 ]
