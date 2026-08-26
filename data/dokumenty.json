@@ -166,5 +166,17 @@
     "size": 760206,
     "createdAt": "2026-08-26T18:15:26.014Z",
     "updatedAt": "2026-08-26T18:15:26.014Z"
+  },
+  {
+    "id": "doc_1787768166745_vowia1",
+    "brand": "KGM",
+    "model": "REXTON",
+    "type": "cennik",
+    "title": "REXTON",
+    "filename": "doc_1787664956886_v2_kgm_cenik_rexton_sk_08-2026_compressed.pdf",
+    "path": "uploads/documents/1787768165100-doc_1787664956886_v2_kgm_cenik_rexton_sk_08-2026_compressed.pdf",
+    "size": 903696,
+    "createdAt": "2026-08-26T18:16:06.745Z",
+    "updatedAt": "2026-08-26T18:16:06.745Z"
   }
 ]
