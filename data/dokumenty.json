@@ -154,5 +154,17 @@
     "size": 817970,
     "createdAt": "2026-08-26T18:15:11.154Z",
     "updatedAt": "2026-08-26T18:15:11.154Z"
+  },
+  {
+    "id": "doc_1787768126014_a7pgnp",
+    "brand": "KGM",
+    "model": "KORANDO",
+    "type": "cennik",
+    "title": "KORANDO",
+    "filename": "doc_1787664889132_v2_kgm_cenik_korando_sk_skladove_vozy_2026_08_compressed.pdf",
+    "path": "uploads/documents/1787768124620-doc_1787664889132_v2_kgm_cenik_korando_sk_skladove_vozy_2026_08_compressed.pdf",
+    "size": 760206,
+    "createdAt": "2026-08-26T18:15:26.014Z",
+    "updatedAt": "2026-08-26T18:15:26.014Z"
   }
 ]
