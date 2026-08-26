@@ -130,5 +130,17 @@
     "size": 2591634,
     "createdAt": "2026-08-26T18:13:49.432Z",
     "updatedAt": "2026-08-26T18:13:49.432Z"
+  },
+  {
+    "id": "doc_1787768056776_sdrlg6",
+    "brand": "KGM",
+    "model": "TORRES EVX",
+    "type": "cennik",
+    "title": "TORRES EVX",
+    "filename": "doc_1787665007249_v2_kgm_cenik_torres_evx_sk_compressed.pdf",
+    "path": "uploads/documents/1787768055341-doc_1787665007249_v2_kgm_cenik_torres_evx_sk_compressed.pdf",
+    "size": 759258,
+    "createdAt": "2026-08-26T18:14:16.776Z",
+    "updatedAt": "2026-08-26T18:14:16.776Z"
   }
 ]
