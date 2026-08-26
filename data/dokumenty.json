@@ -106,5 +106,17 @@
     "size": 483918,
     "createdAt": "2026-08-25T13:08:22.714Z",
     "updatedAt": "2026-08-25T13:08:22.714Z"
+  },
+  {
+    "id": "doc_1787767969411_2fki6i",
+    "brand": "KGM",
+    "model": "MUSSO GRAND",
+    "type": "cennik",
+    "title": "MUSSO GRAND",
+    "filename": "doc_1787665022859_v2_kgm_cenik_musso_grand_sk_compressed.pdf",
+    "path": "uploads/documents/1787767967478-doc_1787665022859_v2_kgm_cenik_musso_grand_sk_compressed.pdf",
+    "size": 840028,
+    "createdAt": "2026-08-26T18:12:49.409Z",
+    "updatedAt": "2026-08-26T18:12:49.409Z"
   }
 ]
