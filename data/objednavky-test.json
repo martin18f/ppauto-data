@@ -59,7 +59,7 @@
   {
     "id": "order_1787778717227_20ebf518",
     "source": "stock",
-    "status": "new",
+    "status": "closed",
     "archived": false,
     "customer": {
       "name": "Martin Šulak",
@@ -104,7 +104,7 @@
     "employeeNote": "",
     "assignedTo": "",
     "createdAt": "2026-08-26T21:11:57.226Z",
-    "updatedAt": "2026-08-26T21:13:50.775Z",
+    "updatedAt": "2026-08-26T21:13:52.526Z",
     "history": [
       {
         "status": "new",
@@ -119,6 +119,11 @@
       {
         "status": "new",
         "at": "2026-08-26T21:13:50.775Z",
+        "note": "Zmena stavu v admin paneli"
+      },
+      {
+        "status": "closed",
+        "at": "2026-08-26T21:13:52.526Z",
         "note": "Zmena stavu v admin paneli"
       }
     ]
