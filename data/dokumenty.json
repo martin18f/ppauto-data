@@ -118,5 +118,17 @@
     "size": 840028,
     "createdAt": "2026-08-26T18:12:49.409Z",
     "updatedAt": "2026-08-26T18:12:49.409Z"
+  },
+  {
+    "id": "doc_1787768029432_d591g8",
+    "brand": "KGM",
+    "model": "TORRES",
+    "type": "cennik",
+    "title": "TORRES",
+    "filename": "doc_1787664925019_v2_kgm_cenik-torres_sk_31-08_compressed.pdf",
+    "path": "uploads/documents/1787768027819-doc_1787664925019_v2_kgm_cenik-torres_sk_31-08_compressed.pdf",
+    "size": 2591634,
+    "createdAt": "2026-08-26T18:13:49.432Z",
+    "updatedAt": "2026-08-26T18:13:49.432Z"
   }
 ]
