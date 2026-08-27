@@ -1878,7 +1878,10 @@
     "znacka": "Chery",
     "model": "TIGGO 4 Hybrid",
     "rok": 2026,
-    "palivo": "HYBRID",
+    "palivo": [
+      "Benzín",
+      "HEV"
+    ],
     "typ_prevodovky": "AT",
     "vybava_paket": "UNIQUE",
     "prevodovka": "AT • UNIQUE",
