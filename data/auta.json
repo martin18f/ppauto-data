@@ -310,7 +310,10 @@
     "znacka": "Jeep",
     "model": "COMPASS",
     "rok": 2023,
-    "palivo": "benzín MHEV",
+    "palivo": [
+      "Benzín",
+      "MHEV"
+    ],
     "typ_prevodovky": "AT",
     "vybava_paket": "UPLAND",
     "prevodovka": "AT • UPLAND",
