@@ -78,9 +78,12 @@
   {
     "id": "jeep-avenger-2024",
     "znacka": "Jeep",
-    "model": "Avenger",
+    "model": "AVENGER",
     "rok": 2024,
-    "palivo": "benzín MHEV",
+    "palivo": [
+      "MHEV",
+      "Benzín"
+    ],
     "typ_prevodovky": "AT",
     "vybava_paket": "Adventure",
     "prevodovka": "AT • Adventure",
@@ -89,17 +92,17 @@
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111702089-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111704127-WhatsApp_Image_2026-02-24_at_08.28.03.jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111705416-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111706873-WhatsApp_Image_2026-02-24_at_08.28.04.jpeg"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111706873-WhatsApp_Image_2026-02-24_at_08.28.04.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111702089-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111704127-WhatsApp_Image_2026-02-24_at_08.28.03.jpeg"
     ],
     "obrazky": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111702089-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111704127-WhatsApp_Image_2026-02-24_at_08.28.03.jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111705416-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111706873-WhatsApp_Image_2026-02-24_at_08.28.04.jpeg"
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111706873-WhatsApp_Image_2026-02-24_at_08.28.04.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111702089-WhatsApp_Image_2026-02-24_at_08.28.03_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772111704127-WhatsApp_Image_2026-02-24_at_08.28.03.jpeg"
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772024272460-WhatsApp_Image_2026-02-24_at_08.28.04_1_.jpeg",
     "tagy": [
