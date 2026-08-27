@@ -62,7 +62,7 @@
     {
       "id": "order_1787829068024_32d2e881",
       "source": "stock",
-      "status": "new",
+      "status": "in_progress",
       "archived": false,
       "customer": {
         "name": "Martin Šulak",
@@ -142,12 +142,17 @@
       "employeeNote": "Urýchlene",
       "assignedTo": "Martina",
       "createdAt": "2026-08-27T11:11:08.023Z",
-      "updatedAt": "2026-08-27T11:13:21.428Z",
+      "updatedAt": "2026-08-27T11:13:29.501Z",
       "history": [
         {
           "status": "new",
           "at": "2026-08-27T11:11:08.023Z",
           "note": "Vytvorené cez web"
+        },
+        {
+          "status": "in_progress",
+          "at": "2026-08-27T11:13:29.501Z",
+          "note": "Zmena stavu v admin paneli"
         }
       ],
       "orderNumber": 1
