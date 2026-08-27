@@ -1,156 +1,73 @@
-[
-  {
-    "id": "order_1787778782053_24021039",
-    "source": "custom",
-    "status": "new",
-    "archived": false,
-    "customer": {
-      "name": "Martin Šulak",
-      "email": "martinsulak18@gmail.com",
-      "phone": "+421903904280",
-      "company": "",
-      "preferredContact": "Telefonicky"
-    },
-    "vehicle": {
-      "stockCarId": "",
-      "stockUrl": "",
-      "znacka": "Chery",
-      "model": "TIGGO 9 Plug-in Hybrid",
-      "rok": 2022,
-      "palivo": "Hybrid",
-      "typ_prevodovky": "AT",
-      "prevodovka": "",
-      "vybava_paket": "STYLE",
-      "karoseria": "Pick-up",
-      "pohon": "AWD",
-      "farba": "Červená Prime",
-      "metaliza": true,
-      "objem": 452454,
-      "vykon": 2422,
-      "najazdene": 0,
-      "stara_cena": "",
-      "nova_cena": "",
-      "obrazok": "",
-      "vybava": []
-    },
-    "preferences": {
-      "budget": "35000",
-      "deliveryTime": "Do 3 mesiacov",
-      "financing": "Finančný leasing",
-      "tradeIn": "45456",
-      "extraEquipmentNote": "gfgd",
-      "note": ""
-    },
-    "consent": true,
-    "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-    "employeeNote": "",
-    "assignedTo": "",
-    "createdAt": "2026-08-26T21:13:02.052Z",
-    "updatedAt": "2026-08-27T07:03:56.918Z",
-    "history": [
-      {
-        "status": "new",
-        "at": "2026-08-26T21:13:02.052Z",
-        "note": "Vytvorené cez web"
+{
+  "version": 1,
+  "nextOrderNumber": 1,
+  "orders": [
+    {
+      "id": "order_1787778782053_24021039",
+      "source": "custom",
+      "status": "new",
+      "archived": false,
+      "customer": {
+        "name": "Martin Šulak",
+        "email": "martinsulak18@gmail.com",
+        "phone": "+421903904280",
+        "company": "",
+        "preferredContact": "Telefonicky"
       },
-      {
-        "status": "in_progress",
-        "at": "2026-08-26T21:14:22.378Z",
-        "note": "Zmena stavu v admin paneli"
+      "vehicle": {
+        "stockCarId": "",
+        "stockUrl": "",
+        "znacka": "Chery",
+        "model": "TIGGO 9 Plug-in Hybrid",
+        "rok": 2022,
+        "palivo": "Hybrid",
+        "typ_prevodovky": "AT",
+        "prevodovka": "",
+        "vybava_paket": "STYLE",
+        "karoseria": "Pick-up",
+        "pohon": "AWD",
+        "farba": "Červená Prime",
+        "metaliza": true,
+        "objem": 452454,
+        "vykon": 2422,
+        "najazdene": 0,
+        "stara_cena": "",
+        "nova_cena": "",
+        "obrazok": "",
+        "vybava": []
       },
-      {
-        "status": "new",
-        "at": "2026-08-27T07:03:56.918Z",
-        "note": "Zmena stavu v admin paneli"
-      }
-    ]
-  },
-  {
-    "id": "order_1787778717227_20ebf518",
-    "source": "stock",
-    "status": "new",
-    "archived": false,
-    "customer": {
-      "name": "Martin Šulak",
-      "email": "martinsulak18@gmail.com",
-      "phone": "+421903904280",
-      "company": "",
-      "preferredContact": "Telefonicky"
-    },
-    "vehicle": {
-      "stockCarId": "kgm-rexton-2026",
-      "stockUrl": "http://localhost:3000/auta/kgm-rexton-2026",
-      "znacka": "KGM",
-      "model": "REXTON",
-      "rok": 2026,
-      "palivo": "Diesel",
-      "typ_prevodovky": "AT",
-      "prevodovka": "AT • PREMIUM",
-      "vybava_paket": "PREMIUM",
-      "karoseria": "SUV",
-      "pohon": "4x4",
-      "farba": "MARBLE grafitová metalíza šedá",
-      "metaliza": true,
-      "objem": 2157,
-      "vykon": 149,
-      "najazdene": 0,
-      "stara_cena": "44 990 €",
-      "nova_cena": "",
-      "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1787664261986-WhatsApp_Image_2026-04-27_at_15.17.55.jpeg",
-      "vybava": []
-    },
-    "preferences": {
-      "budget": "",
-      "deliveryTime": "Do 1 mesiaca",
-      "financing": "Operatívny leasing",
-      "tradeIn": "",
-      "extraEquipmentNote": "",
-      "note": ""
-    },
-    "consent": true,
-    "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-    "employeeNote": "",
-    "assignedTo": "",
-    "createdAt": "2026-08-26T21:11:57.226Z",
-    "updatedAt": "2026-08-27T07:04:03.172Z",
-    "history": [
-      {
-        "status": "new",
-        "at": "2026-08-26T21:11:57.226Z",
-        "note": "Vytvorené cez web"
+      "preferences": {
+        "budget": "35000",
+        "deliveryTime": "Do 3 mesiacov",
+        "financing": "Finančný leasing",
+        "tradeIn": "45456",
+        "extraEquipmentNote": "gfgd",
+        "note": ""
       },
-      {
-        "status": "closed",
-        "at": "2026-08-26T21:13:48.594Z",
-        "note": "Zmena stavu v admin paneli"
-      },
-      {
-        "status": "new",
-        "at": "2026-08-26T21:13:50.775Z",
-        "note": "Zmena stavu v admin paneli"
-      },
-      {
-        "status": "closed",
-        "at": "2026-08-26T21:13:52.526Z",
-        "note": "Zmena stavu v admin paneli"
-      },
-      {
-        "status": "contacted",
-        "at": "2026-08-26T21:13:55.620Z",
-        "note": "Zmena stavu v admin paneli"
-      },
-      {
-        "status": "cancelled",
-        "at": "2026-08-26T21:13:57.453Z",
-        "note": "Zmena stavu v admin paneli"
-      },
-      {
-        "status": "new",
-        "at": "2026-08-27T07:04:03.172Z",
-        "note": "Zmena stavu v admin paneli"
-      }
-    ]
-  }
-]
+      "consent": true,
+      "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "employeeNote": "",
+      "assignedTo": "",
+      "createdAt": "2026-08-26T21:13:02.052Z",
+      "updatedAt": "2026-08-27T07:03:56.918Z",
+      "history": [
+        {
+          "status": "new",
+          "at": "2026-08-26T21:13:02.052Z",
+          "note": "Vytvorené cez web"
+        },
+        {
+          "status": "in_progress",
+          "at": "2026-08-26T21:14:22.378Z",
+          "note": "Zmena stavu v admin paneli"
+        },
+        {
+          "status": "new",
+          "at": "2026-08-27T07:03:56.918Z",
+          "note": "Zmena stavu v admin paneli"
+        }
+      ]
+    }
+  ]
+}
