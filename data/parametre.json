@@ -12,7 +12,8 @@
       "Diesel",
       "HEV",
       "PHEV",
-      "MHEV"
+      "MHEV",
+      "Elektrika"
     ],
     "typ_prevodovky": [
       "AT",
