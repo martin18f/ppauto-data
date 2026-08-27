@@ -379,7 +379,10 @@
     "znacka": "Jeep",
     "model": "RENEGADE",
     "rok": 2024,
-    "palivo": "benzín MHEV",
+    "palivo": [
+      "Benzín",
+      "MHEV"
+    ],
     "typ_prevodovky": "AT",
     "vybava_paket": "Limited",
     "prevodovka": "AT • Limited",
