@@ -196,10 +196,10 @@
       "consent": true,
       "page": "http://localhost:3000/index.html?brand=all",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-      "employeeNote": "klkj",
+      "employeeNote": "klkjm",
       "assignedTo": "Martina",
       "createdAt": "2026-08-27T12:36:27.407Z",
-      "updatedAt": "2026-08-27T12:41:37.526Z",
+      "updatedAt": "2026-08-27T12:48:01.042Z",
       "history": [
         {
           "status": "new",
