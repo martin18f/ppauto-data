@@ -143,12 +143,14 @@
   {
     "id": "jeep-avenger-2024-2",
     "znacka": "Jeep",
-    "model": "Avenger",
+    "model": "AVENGER",
     "rok": 2024,
-    "palivo": "Benzín MHEV",
-    "typ_prevodovky": "AT6",
+    "palivo": [
+      "Benzín MHEV"
+    ],
+    "typ_prevodovky": "AT",
     "vybava_paket": "ADVENTURE",
-    "prevodovka": "AT6 • ADVENTURE",
+    "prevodovka": "AT • ADVENTURE",
     "stara_cena": "26 640 €",
     "nova_cena": "22 900 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772025034656-WhatsApp_Image_2026-02-24_at_08.27.31_1_.jpeg",
@@ -174,8 +176,8 @@
     "objem": 1199,
     "vykon": 74,
     "najazdene": null,
-    "karoseria": "hatchback",
-    "pohon": "predný",
+    "karoseria": "Hatchback",
+    "pohon": "Predný",
     "farba": "zelená LAKE",
     "metaliza": false,
     "vybava": [
