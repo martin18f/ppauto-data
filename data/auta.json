@@ -146,7 +146,8 @@
     "model": "AVENGER",
     "rok": 2024,
     "palivo": [
-      "Benzín MHEV"
+      "Benzín",
+      "MHEV"
     ],
     "typ_prevodovky": "AT",
     "vybava_paket": "ADVENTURE",
