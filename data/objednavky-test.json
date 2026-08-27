@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "nextOrderNumber": 5,
+  "nextOrderNumber": 6,
   "orders": [
+    {
+      "id": "order_1787834306293_c647b65d",
+      "source": "custom",
+      "status": "new",
+      "archived": false,
+      "customer": {
+        "name": "Martin Šulak",
+        "email": "martinsulak18@gmail.com",
+        "phone": "+421903904280",
+        "company": "SHEIN-12T0E0GMFF",
+        "preferredContact": "Telefonicky"
+      },
+      "vehicle": {
+        "stockCarId": "",
+        "stockUrl": "",
+        "znacka": "KGM",
+        "model": "KORANDO",
+        "rok": 2026,
+        "palivo": "Benzín MHEV",
+        "typ_prevodovky": "AT",
+        "prevodovka": "",
+        "vybava_paket": "STYLE",
+        "karoseria": "SUV",
+        "pohon": "predný",
+        "farba": "zelená",
+        "metaliza": true,
+        "objem": 1497,
+        "vykon": 120,
+        "najazdene": null,
+        "stara_cena": "",
+        "nova_cena": "",
+        "obrazok": "",
+        "vybava": []
+      },
+      "preferences": {
+        "deliveryTime": "Do 1 mesiaca",
+        "financing": "Úver",
+        "tradeIn": "",
+        "extraEquipmentNote": "",
+        "note": ""
+      },
+      "consent": true,
+      "page": "http://localhost:3000/index.html?brand=all",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "employeeNote": "",
+      "assignedTo": "",
+      "createdAt": "2026-08-27T12:38:26.292Z",
+      "updatedAt": "2026-08-27T12:38:26.292Z",
+      "history": [
+        {
+          "status": "new",
+          "at": "2026-08-27T12:38:26.292Z",
+          "note": "Vytvorené cez web"
+        }
+      ],
+      "orderNumber": 5
+    },
     {
       "id": "order_1787834187409_76a90789",
       "source": "stock",
