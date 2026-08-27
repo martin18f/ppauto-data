@@ -66,10 +66,10 @@
       "consent": true,
       "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-      "employeeNote": "",
-      "assignedTo": "",
+      "employeeNote": "kjk",
+      "assignedTo": "Martina",
       "createdAt": "2026-08-27T11:52:35.080Z",
-      "updatedAt": "2026-08-27T11:54:03.379Z",
+      "updatedAt": "2026-08-27T11:54:14.607Z",
       "history": [
         {
           "status": "new",
