@@ -63,7 +63,7 @@
       "id": "order_1787848330036_a50d5d71",
       "source": "stock",
       "status": "new",
-      "archived": true,
+      "archived": false,
       "customer": {
         "name": "Martin Šulak",
         "email": "martinsulak18@gmail.com",
@@ -136,7 +136,7 @@
       "employeeNote": "",
       "assignedTo": "",
       "createdAt": "2026-08-27T16:32:10.036Z",
-      "updatedAt": "2026-08-27T16:33:17.392Z",
+      "updatedAt": "2026-08-27T16:33:28.095Z",
       "history": [
         {
           "status": "new",
