@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "nextOrderNumber": 12,
+  "nextOrderNumber": 13,
   "orders": [
+    {
+      "id": "order_1787848376646_cec11299",
+      "source": "custom",
+      "status": "new",
+      "archived": false,
+      "customer": {
+        "name": "Martin Šulak",
+        "email": "martinsulak18@gmail.com",
+        "phone": "+421903904280",
+        "company": "f",
+        "preferredContact": "E-mailom"
+      },
+      "vehicle": {
+        "stockCarId": "",
+        "stockUrl": "",
+        "znacka": "Subaru",
+        "model": "SOLTERRA",
+        "rok": 2024,
+        "palivo": "Benzín",
+        "typ_prevodovky": "AT",
+        "prevodovka": "",
+        "vybava_paket": "neviem jaka je",
+        "karoseria": "Hatchback",
+        "pohon": "Predný",
+        "farba": "fsafsfsaf",
+        "metaliza": true,
+        "objem": 2157,
+        "vykon": 165,
+        "najazdene": null,
+        "stara_cena": "",
+        "nova_cena": "",
+        "obrazok": "",
+        "vybava": []
+      },
+      "preferences": {
+        "deliveryTime": "Ihneď",
+        "financing": "Hotovosť",
+        "tradeIn": "fsdfas",
+        "extraEquipmentNote": "fasdfsaf",
+        "note": "fasfas"
+      },
+      "consent": true,
+      "page": "https://ppauto.sk/ponuka#objednat-auto",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "employeeNote": "",
+      "assignedTo": "",
+      "createdAt": "2026-08-27T16:32:56.646Z",
+      "updatedAt": "2026-08-27T16:32:56.646Z",
+      "history": [
+        {
+          "status": "new",
+          "at": "2026-08-27T16:32:56.646Z",
+          "note": "Vytvorené cez web"
+        }
+      ],
+      "orderNumber": 12
+    },
     {
       "id": "order_1787848330036_a50d5d71",
       "source": "stock",
