@@ -1,5 +1,83 @@
 {
   "version": 1,
-  "nextOrderNumber": 3,
-  "orders": []
+  "nextOrderNumber": 4,
+  "orders": [
+    {
+      "id": "order_1787831555081_8afab704",
+      "source": "stock",
+      "status": "new",
+      "archived": false,
+      "customer": {
+        "name": "Martin Šulak",
+        "email": "martinsulak18@gmail.com",
+        "phone": "+421903904280",
+        "company": "SHEIN-12T0E0GMFF",
+        "preferredContact": "Telefonicky"
+      },
+      "vehicle": {
+        "stockCarId": "chery-tiggo-4-hybrid-2026",
+        "stockUrl": "http://localhost:3000/auta/chery-tiggo-4-hybrid-2026",
+        "znacka": "Chery",
+        "model": "TIGGO 4 Hybrid",
+        "rok": 2026,
+        "palivo": "Benzín HEV",
+        "typ_prevodovky": "AT",
+        "prevodovka": "AT • UNIQUE",
+        "vybava_paket": "UNIQUE",
+        "karoseria": "",
+        "pohon": "Predný",
+        "farba": "červená metalíza",
+        "metaliza": true,
+        "objem": 1498,
+        "vykon": 120,
+        "najazdene": 39,
+        "stara_cena": "26 790 €",
+        "nova_cena": "23 490 €",
+        "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783529262737-chery4_2.jpg",
+        "vybava": [
+          "Adaptívny tempomat",
+          "Asistent jazdy v jazdnom pruhu",
+          "Sledovanie mŕtveho uhla",
+          "Autonómne núdzové brzdenie",
+          "Rozpoznávanie dopravných značiek",
+          "Monitorovanie únavy vodiča",
+          "Predné a zadné parkovacie senzory",
+          "ISOFIX",
+          "Dvojzónová automatická klimatizácia",
+          "Vyhrievané predné sedadlá",
+          "Elektricky nastaviteľné sedadlo vodiča",
+          "Bezkľúčový vstup a štartovanie",
+          "Dotykový infotainment displej",
+          "Apple CarPlay a Android Auto",
+          "Bezdrôtové nabíjanie telefónu",
+          "LED svetlomety",
+          "Elektricky sklopné a vyhrievané spätné zrkadlá",
+          "Zliatinové disky",
+          "Hybridný pohon"
+        ]
+      },
+      "preferences": {
+        "deliveryTime": "Do 1 mesiaca",
+        "financing": "Hotovosť",
+        "tradeIn": "Mitsubishi Lancer, 2007, 231 000 km",
+        "extraEquipmentNote": "",
+        "note": "test"
+      },
+      "consent": true,
+      "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "employeeNote": "",
+      "assignedTo": "",
+      "createdAt": "2026-08-27T11:52:35.080Z",
+      "updatedAt": "2026-08-27T11:52:35.080Z",
+      "history": [
+        {
+          "status": "new",
+          "at": "2026-08-27T11:52:35.080Z",
+          "note": "Vytvorené cez web"
+        }
+      ],
+      "orderNumber": 3
+    }
+  ]
 }
