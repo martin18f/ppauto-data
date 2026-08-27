@@ -139,10 +139,10 @@
       "consent": true,
       "page": "http://localhost:3000/index.html?brand=all",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-      "employeeNote": "",
-      "assignedTo": "",
+      "employeeNote": "Urýchlene",
+      "assignedTo": "Martina",
       "createdAt": "2026-08-27T11:11:08.023Z",
-      "updatedAt": "2026-08-27T11:11:08.023Z",
+      "updatedAt": "2026-08-27T11:13:21.428Z",
       "history": [
         {
           "status": "new",
