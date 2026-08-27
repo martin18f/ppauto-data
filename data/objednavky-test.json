@@ -3,63 +3,6 @@
   "nextOrderNumber": 13,
   "orders": [
     {
-      "id": "order_1787840899420_49b6c161",
-      "source": "custom",
-      "status": "new",
-      "archived": false,
-      "customer": {
-        "name": "Martin Šulak",
-        "email": "martinsulak18@gmail.com",
-        "phone": "+421903904280",
-        "company": "SHEIN-12T0E0GMFF",
-        "preferredContact": "E-mailom"
-      },
-      "vehicle": {
-        "stockCarId": "",
-        "stockUrl": "",
-        "znacka": "Subaru",
-        "model": "UNCHARTED",
-        "rok": 2026,
-        "palivo": "Elektrika",
-        "typ_prevodovky": "AT",
-        "prevodovka": "",
-        "vybava_paket": "Neviem aka je",
-        "karoseria": "SUV",
-        "pohon": "4x4",
-        "farba": "bledomodra",
-        "metaliza": true,
-        "objem": null,
-        "vykon": null,
-        "najazdene": null,
-        "stara_cena": "",
-        "nova_cena": "",
-        "obrazok": "",
-        "vybava": []
-      },
-      "preferences": {
-        "deliveryTime": "Do 3 mesiacov",
-        "financing": "Operatívny leasing",
-        "tradeIn": "Mitsubishi Lancer, 2007, 231 000 km",
-        "extraEquipmentNote": "fsdffsd",
-        "note": "cdfdf"
-      },
-      "consent": true,
-      "page": "http://localhost:3000/index.html?brand=all#objednat-auto",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
-      "employeeNote": "",
-      "assignedTo": "",
-      "createdAt": "2026-08-27T14:28:19.418Z",
-      "updatedAt": "2026-08-27T14:30:51.423Z",
-      "history": [
-        {
-          "status": "new",
-          "at": "2026-08-27T14:28:19.418Z",
-          "note": "Vytvorené cez web"
-        }
-      ],
-      "orderNumber": 10
-    },
-    {
       "id": "order_1787840818318_5340eed3",
       "source": "stock",
       "status": "in_progress",
