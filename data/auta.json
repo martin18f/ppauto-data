@@ -2371,7 +2371,10 @@
     "znacka": "Jeep",
     "model": "COMPASS",
     "rok": 2026,
-    "palivo": "HEV",
+    "palivo": [
+      "HEV",
+      "Benzín"
+    ],
     "typ_prevodovky": "AT",
     "vybava_paket": "First Edition",
     "prevodovka": "AT • First Edition",
