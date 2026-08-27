@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "nextOrderNumber": 2,
+  "nextOrderNumber": 3,
   "orders": [
+    {
+      "id": "order_1787829128199_41974056",
+      "source": "custom",
+      "status": "new",
+      "archived": false,
+      "customer": {
+        "name": "Martin Šulak",
+        "email": "martinsulak18@gmail.com",
+        "phone": "+421903904280",
+        "company": "PP AUTO s.r.o.",
+        "preferredContact": "Telefonicky"
+      },
+      "vehicle": {
+        "stockCarId": "",
+        "stockUrl": "",
+        "znacka": "Chery",
+        "model": "TIGGO 9 Plug-in Hybrid",
+        "rok": null,
+        "palivo": "Benzín PHEV",
+        "typ_prevodovky": "AT",
+        "prevodovka": "",
+        "vybava_paket": "UNIQUE",
+        "karoseria": "SUV",
+        "pohon": "4X4",
+        "farba": "Matná sivá Universe",
+        "metaliza": true,
+        "objem": 1498,
+        "vykon": 315,
+        "najazdene": null,
+        "stara_cena": "",
+        "nova_cena": "",
+        "obrazok": "",
+        "vybava": []
+      },
+      "preferences": {
+        "deliveryTime": "Ihneď",
+        "financing": "Operatívny leasing",
+        "tradeIn": "Mitsubishi Lancer, 2007, 231 000 km",
+        "extraEquipmentNote": "Apple Carplay",
+        "note": "sdklfajlkfj"
+      },
+      "consent": true,
+      "page": "http://localhost:3000/index.html?brand=all",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "employeeNote": "",
+      "assignedTo": "",
+      "createdAt": "2026-08-27T11:12:08.198Z",
+      "updatedAt": "2026-08-27T11:12:08.198Z",
+      "history": [
+        {
+          "status": "new",
+          "at": "2026-08-27T11:12:08.198Z",
+          "note": "Vytvorené cez web"
+        }
+      ],
+      "orderNumber": 2
+    },
     {
       "id": "order_1787829068024_32d2e881",
       "source": "stock",
