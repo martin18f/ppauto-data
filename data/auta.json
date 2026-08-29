@@ -2165,25 +2165,25 @@
     "znacka": "KGM",
     "model": "KORANDO",
     "rok": 2026,
-    "palivo": "Benzín",
+    "palivo": [
+      "Benzín"
+    ],
     "typ_prevodovky": "AT",
-    "vybava_paket": "STYLE +",
-    "prevodovka": "AT • STYLE +",
+    "vybava_paket": "STYLE",
+    "prevodovka": "AT • STYLE",
     "stara_cena": "29 680 €",
     "nova_cena": "27 680 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521346236-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
     "galeria": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521346236-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521348581-INT..jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521350331-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521351580-WhatsApp_Image_2026-02-24_at_15.08.18_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521348581-INT..jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521353066-WhatsApp_Image_2026-02-24_at_15.08.18.jpeg"
     ],
     "obrazky": [
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521346236-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521348581-INT..jpeg",
-      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521350331-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521351580-WhatsApp_Image_2026-02-24_at_15.08.18_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521348581-INT..jpeg",
       "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521353066-WhatsApp_Image_2026-02-24_at_15.08.18.jpeg"
     ],
     "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1783521346236-WhatsApp_Image_2026-02-24_at_15.08.18_3_.jpeg",
@@ -2196,7 +2196,7 @@
     "vykon": 120,
     "najazdene": 15,
     "karoseria": "SU",
-    "pohon": "4X4",
+    "pohon": "4x4",
     "farba": "strieborná",
     "metaliza": true,
     "vybava": [
