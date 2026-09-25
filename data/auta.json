@@ -2493,5 +2493,47 @@
     "farba": "MARBLE grafitová metalíza šedá",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "kgm-korando-2026-6",
+    "znacka": "KGM",
+    "model": "KORANDO",
+    "rok": 2026,
+    "palivo": [
+      "Benzín"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "SMART",
+    "prevodovka": "AT • SMART",
+    "stara_cena": "23 180 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342346257-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342346257-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342348474-WhatsApp_Image_2026-02-24_at_15.09.07.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342349900-WhatsApp_Image_2026-02-24_at_15.09.08_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342351971-WhatsApp_Image_2026-02-24_at_15.11.04_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342353792-WhatsApp_Image_2026-02-24_at_15.11.04.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342346257-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342348474-WhatsApp_Image_2026-02-24_at_15.09.07.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342349900-WhatsApp_Image_2026-02-24_at_15.09.08_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342351971-WhatsApp_Image_2026-02-24_at_15.11.04_1_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342353792-WhatsApp_Image_2026-02-24_at_15.11.04.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342346257-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
+    "tagy": [
+      "kgm"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 120,
+    "najazdene": 11,
+    "karoseria": "Crossover",
+    "pohon": "4x4",
+    "farba": "GRAND biela",
+    "metaliza": false,
+    "vybava": []
   }
 ]
