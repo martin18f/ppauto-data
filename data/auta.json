@@ -734,13 +734,15 @@
   },
   {
     "id": "kgm-korando-2026-3",
-    "znacka": "Kgm",
-    "model": "Korando",
+    "znacka": "KGM",
+    "model": "KORANDO",
     "rok": 2026,
-    "palivo": "Benzín",
+    "palivo": [
+      "Benzín"
+    ],
     "typ_prevodovky": "AT",
-    "vybava_paket": "STYLE +",
-    "prevodovka": "AT • STYLE +",
+    "vybava_paket": "STYLE",
+    "prevodovka": "AT • STYLE",
     "stara_cena": "28 880 €",
     "nova_cena": "27 680 €",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/main/uploads/1772030544709-WhatsApp_Image_2026-02-24_at_08.25.58_1_.jpeg",
@@ -767,7 +769,7 @@
     "vykon": 120,
     "najazdene": 10,
     "karoseria": "SUV",
-    "pohon": "4X4",
+    "pohon": "4x4",
     "farba": "modrá",
     "metaliza": true,
     "vybava": [
