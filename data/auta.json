@@ -2535,5 +2535,46 @@
     "farba": "GRAND biela",
     "metaliza": false,
     "vybava": []
+  },
+  {
+    "id": "kgm-korando-2026-7",
+    "znacka": "KGM",
+    "model": "KORANDO",
+    "rok": 2026,
+    "palivo": [
+      "Benzín"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "SMART",
+    "prevodovka": "AT • SMART",
+    "stara_cena": "24 160 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342597508-WhatsApp_Image_2026-09-25_at_14.41.56_4_.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342597508-WhatsApp_Image_2026-09-25_at_14.41.56_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342598952-interier_2.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342600411-WhatsApp_Image_2026-09-25_at_14.41.56_6_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342601759-WhatsApp_Image_2026-09-25_at_14.41.56.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342597508-WhatsApp_Image_2026-09-25_at_14.41.56_4_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342598952-interier_2.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342600411-WhatsApp_Image_2026-09-25_at_14.41.56_6_.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342601759-WhatsApp_Image_2026-09-25_at_14.41.56.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342597508-WhatsApp_Image_2026-09-25_at_14.41.56_4_.jpeg",
+    "tagy": [
+      "kgm",
+      "SKLADOM"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 120,
+    "najazdene": 8,
+    "karoseria": "Crossover",
+    "pohon": "Predný",
+    "farba": "DANDY BLUE",
+    "metaliza": true,
+    "vybava": []
   }
 ]
