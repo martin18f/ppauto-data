@@ -2502,9 +2502,9 @@
     "palivo": [
       "Benzín"
     ],
-    "typ_prevodovky": "AT",
+    "typ_prevodovky": "MT",
     "vybava_paket": "SMART",
-    "prevodovka": "AT • SMART",
+    "prevodovka": "MT • SMART",
     "stara_cena": "23 180 €",
     "nova_cena": "",
     "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1790342346257-WhatsApp_Image_2026-02-24_at_15.09.08.jpeg",
