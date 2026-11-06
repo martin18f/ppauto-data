@@ -2618,5 +2618,35 @@
     "farba": "Strieborná Arctic platinum",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "chery-tiggo-7-hybrid-2026-3",
+    "znacka": "Chery",
+    "model": "TIGGO 7 Hybrid",
+    "rok": 2026,
+    "palivo": [
+      "HEV"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UNIQUE",
+    "prevodovka": "AT • UNIQUE",
+    "stara_cena": "",
+    "nova_cena": "",
+    "titulka": "",
+    "galeria": [],
+    "obrazky": [],
+    "obrazok": "",
+    "tagy": [
+      "chery"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 108,
+    "najazdene": 11,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "Sivá Phatom",
+    "metaliza": false,
+    "vybava": []
   }
 ]
