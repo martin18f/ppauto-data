@@ -1917,7 +1917,7 @@
       "skladom",
       "novinky"
     ],
-    "skryte": false,
+    "skryte": true,
     "objem": 1498,
     "vykon": 120,
     "najazdene": 39,
