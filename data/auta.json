@@ -2702,5 +2702,47 @@
     "farba": "Čierna Pine",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "jeep-compass-2026-2",
+    "znacka": "Jeep",
+    "model": "COMPASS",
+    "rok": 2026,
+    "palivo": [
+      "MHEV"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "First Edition",
+    "prevodovka": "AT • First Edition",
+    "stara_cena": "32 790 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979471785-WhatsApp_Image_2026-11-06_at_15.46.55.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979471785-WhatsApp_Image_2026-11-06_at_15.46.55.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979474388-BOK.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979476321-ING.ZOZADU.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979478044-INT..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979480227-ZOZADU.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979471785-WhatsApp_Image_2026-11-06_at_15.46.55.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979474388-BOK.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979476321-ING.ZOZADU.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979478044-INT..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979480227-ZOZADU.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793979471785-WhatsApp_Image_2026-11-06_at_15.46.55.jpeg",
+    "tagy": [
+      "jeep"
+    ],
+    "skryte": false,
+    "objem": 1198,
+    "vykon": 107,
+    "najazdene": 27,
+    "karoseria": "SUV",
+    "pohon": "Predný",
+    "farba": "hnedá AMAZÓNIA",
+    "metaliza": true,
+    "vybava": []
   }
 ]
