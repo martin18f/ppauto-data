@@ -2660,5 +2660,47 @@
     "farba": "Sivá Phatom",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "chery-tiggo-9-plug-in-hybrid-2026-3",
+    "znacka": "Chery",
+    "model": "TIGGO 9 Plug-in Hybrid",
+    "rok": 2026,
+    "palivo": [
+      "PHEV"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UNIQUE",
+    "prevodovka": "AT • UNIQUE",
+    "stara_cena": "47 990 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978121789-WhatsApp_Image_2026-11-06_at_15.46.56.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978121789-WhatsApp_Image_2026-11-06_at_15.46.56.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978124279-int._zozadu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978126674-int..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978128968-zboku.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978131121-zozadu.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978121789-WhatsApp_Image_2026-11-06_at_15.46.56.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978124279-int._zozadu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978126674-int..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978128968-zboku.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978131121-zozadu.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793978121789-WhatsApp_Image_2026-11-06_at_15.46.56.jpeg",
+    "tagy": [
+      "chery"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 108,
+    "najazdene": 21,
+    "karoseria": "SUV",
+    "pohon": "4x4",
+    "farba": "Čierna Pine",
+    "metaliza": true,
+    "vybava": []
   }
 ]
