@@ -2576,5 +2576,47 @@
     "farba": "DANDY BLUE",
     "metaliza": true,
     "vybava": []
+  },
+  {
+    "id": "chery-tiggo-7-2026",
+    "znacka": "Chery",
+    "model": "TIGGO 7",
+    "rok": 2026,
+    "palivo": [
+      "Benzín"
+    ],
+    "typ_prevodovky": "AT",
+    "vybava_paket": "UNIQUE",
+    "prevodovka": "AT • UNIQUE",
+    "stara_cena": "28 530 €",
+    "nova_cena": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977763375-spredu.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977763375-spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977766057-bok.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977768175-int._spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977770596-int..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977772928-zozadu.jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977763375-spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977766057-bok.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977768175-int._spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977770596-int..jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977772928-zozadu.jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977763375-spredu.jpeg",
+    "tagy": [
+      "chery"
+    ],
+    "skryte": false,
+    "objem": 1498,
+    "vykon": 105,
+    "najazdene": 18,
+    "karoseria": "SUV",
+    "pohon": "4x4",
+    "farba": "Strieborná Arctic platinum",
+    "metaliza": true,
+    "vybava": []
   }
 ]
