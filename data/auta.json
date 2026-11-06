@@ -2401,7 +2401,7 @@
       "novinky",
       "skladom"
     ],
-    "skryte": false,
+    "skryte": true,
     "objem": 1199,
     "vykon": 107,
     "najazdene": 0,
