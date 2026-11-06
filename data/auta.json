@@ -2630,12 +2630,24 @@
     "typ_prevodovky": "AT",
     "vybava_paket": "UNIQUE",
     "prevodovka": "AT • UNIQUE",
-    "stara_cena": "",
+    "stara_cena": "29 790 €",
     "nova_cena": "",
-    "titulka": "",
-    "galeria": [],
-    "obrazky": [],
-    "obrazok": "",
+    "titulka": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977974086-spredu.jpeg",
+    "galeria": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977974086-spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977976196-zboku.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977977965-zozadu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977979729-int._spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977981572-int..jpeg"
+    ],
+    "obrazky": [
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977974086-spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977976196-zboku.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977977965-zozadu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977979729-int._spredu.jpeg",
+      "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977981572-int..jpeg"
+    ],
+    "obrazok": "https://raw.githubusercontent.com/martin18f/ppauto-data/agent/dynamic-admin-options/uploads/1793977974086-spredu.jpeg",
     "tagy": [
       "chery"
     ],
@@ -2646,7 +2658,7 @@
     "karoseria": "SUV",
     "pohon": "Predný",
     "farba": "Sivá Phatom",
-    "metaliza": false,
+    "metaliza": true,
     "vybava": []
   }
 ]
